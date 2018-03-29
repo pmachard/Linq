@@ -1,0 +1,12 @@
+/.vs/Linq/v15/.suo
+/UnitTestLinq/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/UnitTestLinq/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/UnitTestLinq/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/UnitTestLinq/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/UnitTestLinq/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/UnitTestLinq/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/UnitTestLinq/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+/TestResults
+/UnitTestLinq/obj
+/UnitTestLinq/bin
+/packages
